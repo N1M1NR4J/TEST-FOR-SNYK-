@@ -1,1 +1,10 @@
-
+{
+  "name": "broken-vulnerable-code-snippets",
+  "version": "1.0.0",
+  "description": "Vulnerable code snippets for security testing",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "express": "4.16.0",
+    "jquery": "3.3.1"
+  }
+}
